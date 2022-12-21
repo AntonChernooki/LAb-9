@@ -132,6 +132,10 @@
   <ItemGroup>
     <Text Include="data.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="constans.h" />
+    <ClInclude Include="lab9-reports.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
