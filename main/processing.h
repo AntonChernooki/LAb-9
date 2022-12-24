@@ -1,5 +1,5 @@
 #ifndef PROCESSING
 #define PROCESSING
 #include "lab9-reports.h"
-dok process(dok**, int);
+int process();
 #endif

@@ -1,6 +1,8 @@
 #include "processing.h"
-dok process(dok** reports, int size)
+int process()
 {
 	dok proc;
-	return proc;
+	proc.length = 0;
+	return proc.length;
 }
+
