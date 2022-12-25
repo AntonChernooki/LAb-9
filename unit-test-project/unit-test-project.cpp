@@ -11,6 +11,7 @@ namespace unittestproject
 		
 		TEST_METHOD(TestMethod1)
 		{
+			
 		}
 	};
 }
