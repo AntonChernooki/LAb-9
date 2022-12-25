@@ -1,5 +1,7 @@
 #ifndef PROCESSING
 #define PROCESSING
 #include "lab9-reports.h"
-int process();
+#include "file_reader.h"
+dok* process(dok* report[], int size);
 #endif
+
